@@ -1,0 +1,171 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514e;
+}
+
+h1 {
+  margin-top: 20px;
+  position: relative;
+  top: 50px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.2rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+
+p {
+  position: relative;
+  top: 40px;
+  font-size: 1rem;
+}
+
+.normal {
+  font-weight: normal;
+  font-size: 1.4rem;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  height: 100px;
+}
+
+.mountain {
+  position: relative;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 70px;
+}
+
+.cloud2 {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.pp {
+  border-radius: 50%;
+  margin-top: 15px;
+}
+
+.footer-link {
+  position: relative;
+  top: 25px;
+  padding: 25px;
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+.contact-me {
+  position: relative;
+  top: 0;
+  margin-bottom: 50px;
+}
+
+.touch {
+  position: relative;
+  bottom: 10px;
+}
+
+.skill2 {
+  position: relative;
+  bottom: 30px;
+  margin-bottom: 0;
+}
+
+.description2 {
+  position: relative;
+  top: 0;
+  margin-top: 0;
+}
+
+.description1 {
+  position: relative;
+  top: 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 80px auto 100px auto;
+}
+
+.cookie {
+  width: 25%;
+  margin-bottom: 35px;
+}
+
+.pc {
+  width: 25%;
+}
+
+.p-touch {
+  font-size: 1rem;
+  position: absolute;
+  top: 20px;
+  right: 10px;
+  left: 10px;
+}
+
+.btn {
+  position: relative;
+  top: 15px;
+  background-color: #11999E;
+  color: #EAF6F6;
+  padding: 10px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+}
+
+.btn:hover {
+  background-color: #14cbcf;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.8rem;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 15%;
+  border-color: gray;
+  border-width: 5px;
+}
+
+.raya {
+  position: absolute;
+  right: 10px;
+  left: 10px;
+  top: 1860px;
+}
